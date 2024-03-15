@@ -1,1 +1,2 @@
-# InteractiveMap
+# InteractiveMap 
+This map use Leaflet library and Foursqaure API to map the user's geographic location coordinates onto a map. Then user is allowed to select a business type hence the business will be marked on the map.
